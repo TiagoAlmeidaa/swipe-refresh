@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SwipeRefreshExample</string>
+
+    <string name="icon">Icon</string>
+
+    <string-array name="random_phrases">
+        <item>Hello my friend!</item>
+        <item>Bye have a great day!</item>
+        <item>I love raining days like this!</item>
+        <item>I am so tired today</item>
+        <item>Are you feeling okay?</item>
+        <item>Can I have a cigarette please?</item>
+        <item>Does anyone is hungry here?</item>
+        <item>I love the boys!</item>
+        <item>Do not forget to like and subscribe to my YT channel</item>
+        <item>You know nothing Jon Snow!</item>
+        <item>Burn them all</item>
+        <item>Yeah Mr.white! Yeah SCIENCE!</item>
+        <item>Dude, where is my car?</item>
+        <item>I am not superstitious but I am a little stitious</item>
+        <item>The worst thing about prison was the dementors</item>
+        <item>I declare BANKRUPTCY</item>
+        <item>Hey you!</item>
+        <item>I am not sure what to do</item>
+        <item>Does anyone here understood this example?</item>
+        <item>Well I thin this example need some more improvements!</item>
+        <item>I am dead inside</item>
+        <item>Who let the dogs out?</item>
+        <item>No god, please no! Nooooooooooo!</item>
+    </string-array>
+
+</resources>
